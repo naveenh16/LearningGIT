@@ -1,3 +1,5 @@
 branch2
 Adding a line for Push
 Adding line for PULL from GIT web
+
+Demo for PULL
